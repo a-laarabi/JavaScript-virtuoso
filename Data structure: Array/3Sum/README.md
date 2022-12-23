@@ -36,6 +36,14 @@ Input: nums = [0,0,0]
 Output: [[0,0,0]]
 Explanation: The only possible triplet sums up to 0.
 ```
+
+## Example 4:
+
+```
+Input: nums = [0,0,0,0]
+Output: [[0,0,0]]
+My solution: [[0,0,0],[0,0,0],[0,0,0]]
+```
  
 
 ### Constraints:

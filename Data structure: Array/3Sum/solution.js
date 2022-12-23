@@ -13,3 +13,12 @@ const threeSum = (nums) => {
 };
 
 threeSum([-1,0,1,2,-1,-4]);
+
+/*
+didnt pass all the examples 
+need to update
+    input [0,0,0,0]
+
+    Output [[0,0,0],[0,0,0],[0,0,0]]
+    Expected [[0,0,0]]
+*/
