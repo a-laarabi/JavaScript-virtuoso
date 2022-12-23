@@ -30,6 +30,20 @@ Output: [1,2]
 Input: nums = [3,3], target = 6
 Output: [0,1]
 ```
+
+## Example 4:
+
+```
+Input: nums = [3,2,3], target = 6
+Output: [0,2]
+```
+
+## Example 5:
+
+```
+Input: nums = [2,5,5,11], target = 10
+Output: [1,2]
+```
  
 
 ### Constraints:
@@ -41,3 +55,5 @@ Output: [0,1]
  
 
 > Follow-up: Can you come up with an algorithm that is less than O(n2) time complexity?
+
+[Posted solution](https://leetcode.com/problems/two-sum/solutions/2934040/sum-two/)
