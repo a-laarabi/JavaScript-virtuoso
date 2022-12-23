@@ -5,7 +5,7 @@ const findMedianSortedArrays = (nums1, nums2) => {
     const i = nums3[Math.trunc(nums3.length / 2) - 1] + nums3[Math.trunc(nums3.length / 2)];
     return i / 2;
   }
-  return 0;
+  return false;
 };
 
 findMedianSortedArrays([1, 2], [3, 4]);
